@@ -17,6 +17,8 @@
   <a href="#-contributing">Contributing</a>
 </p>
 
+![Endex - Endpoint Reconnaissance Tool](screenshot.png)
+
 ---
 
 ## 📌 What is Endex?
